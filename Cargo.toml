@@ -1,0 +1,12 @@
+[package]
+name = "custom_link"
+version = "0.1.0"
+authors = ["Rahul Sharma <rsconceptx@gmail.com>"]
+
+[dependencies]
+libc = "*"
+
+
+[build-dependencies.gcc]
+git = "https://github.com/alexcrichton/gcc-rs"
+
