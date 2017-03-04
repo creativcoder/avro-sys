@@ -1,5 +1,5 @@
 [root]
-name = "custom_link"
+name = "avro-sys"
 version = "0.1.0"
 dependencies = [
  "gcc 0.3.43 (git+https://github.com/alexcrichton/gcc-rs)",

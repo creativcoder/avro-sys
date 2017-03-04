@@ -1,5 +1,5 @@
 [package]
-name = "custom_link"
+name = "avro-sys"
 version = "0.1.0"
 authors = ["Rahul Sharma <rsconceptx@gmail.com>"]
 
