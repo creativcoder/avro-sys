@@ -6,7 +6,5 @@ authors = ["Rahul Sharma <rsconceptx@gmail.com>"]
 [dependencies]
 libc = "*"
 
-
-[build-dependencies.gcc]
-git = "https://github.com/alexcrichton/gcc-rs"
-
+[build-dependencies]
+cmake = "0.1"
